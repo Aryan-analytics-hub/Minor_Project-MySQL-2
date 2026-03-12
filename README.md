@@ -24,7 +24,7 @@ this dataset contians the information about stores, customers, orders products, 
 
 2) ### Product Popularity-
    Top 5 most sold products by quantity.
-   ![Product Performance](screenshots/Prduct_Popularity.png)
+   ![Product Performance](screenshots/Product_Popularity.png)
 
 3) ### Customer Location-
    Customers who placed orders with store names.
@@ -32,7 +32,7 @@ this dataset contians the information about stores, customers, orders products, 
 
 4) ### Brand Insights-
    Total number of products per brand.
-   ![Brand Insights](screenshots/Brand_Insights.png)
+   ![Brand Insights](screenshots/Brand_insights.png)
 
 5) ### Low Stock Alert-
    Products with zero quantity in stock.
